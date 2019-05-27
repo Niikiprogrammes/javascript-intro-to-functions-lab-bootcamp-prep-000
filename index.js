@@ -3,9 +3,9 @@ return string.toUpperCase()
 }
 
 var uppercase = "HELLO!"
- uppercase.toUpperCase()=== uppercase
+return uppercase.toUpperCase()=== uppercase
 
 var lowercase = 'hello!'
- lowercase.toLowerCase() === lowercase
+return lowercase.toLowerCase() === lowercase
 
   
